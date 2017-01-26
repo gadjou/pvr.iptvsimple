@@ -1,8 +1,0 @@
-/root/manual/kodi/pvr.iptvsimple/build/build/kodi-platform/src/kodi-platform-build/CMakeFiles/install.dir
-/root/manual/kodi/pvr.iptvsimple/build/build/kodi-platform/src/kodi-platform-build/CMakeFiles/list_install_components.dir
-/root/manual/kodi/pvr.iptvsimple/build/build/kodi-platform/src/kodi-platform-build/CMakeFiles/rebuild_cache.dir
-/root/manual/kodi/pvr.iptvsimple/build/build/kodi-platform/src/kodi-platform-build/CMakeFiles/addon-package.dir
-/root/manual/kodi/pvr.iptvsimple/build/build/kodi-platform/src/kodi-platform-build/CMakeFiles/edit_cache.dir
-/root/manual/kodi/pvr.iptvsimple/build/build/kodi-platform/src/kodi-platform-build/CMakeFiles/kodiplatform.dir
-/root/manual/kodi/pvr.iptvsimple/build/build/kodi-platform/src/kodi-platform-build/CMakeFiles/install/strip.dir
-/root/manual/kodi/pvr.iptvsimple/build/build/kodi-platform/src/kodi-platform-build/CMakeFiles/install/local.dir
