@@ -1,0 +1,12 @@
+prefix=/root/manual/kodi/pvr.iptvsimple/build/build/depends
+libdir=/root/manual/kodi/pvr.iptvsimple/build/build/depends/lib
+includedir=/root/manual/kodi/pvr.iptvsimple/build/build/depends/include
+CXX=/usr/bin/c++ 
+CC=/usr/bin/cc 
+DEPENDENCIES=-lpthread;/root/manual/kodi/pvr.iptvsimple/build/build/depends/lib/libtinyxml.a
+
+Name: kodiplatform
+Description: Kodi add-on platform support library 17.0
+Version: 17.0
+Libs: -L -l:kodiplatform -lpthread -L/root/manual/kodi/pvr.iptvsimple/build/build/depends/lib -l:libtinyxml.a
+Cflags:  -std=c++11 -fPIC

@@ -1,7 +1,7 @@
 #!/bin/bash
 mkdir build
 cd build
-cmake -DADDONS_TO_BUILD=pvr.hts -DADDON_SRC_PREFIX=../.. -DCMAKE_BUILD_TYPE=Debug -DCMAKE_INSTALL_PREFIX=../../xbmc/addons -DPACKAGE_ZIP=1 ../../xbmc/project/cmake/addons
+cmake -DADDONS_TO_BUILD=pvr.iptvsimple -DADDON_SRC_PREFIX=../.. -DCMAKE_BUILD_TYPE=Debug -DCMAKE_INSTALL_PREFIX=../../xbmc/addons -DPACKAGE_ZIP=1 ../../xbmc/project/cmake/addons
 # the first run will fail because of this on Linux (works on Windows), the capticalization is off Kodi vs kodi
 cd build/depends/lib/kodi/ ; ln -s KodiConfig.cmake kodiConfig.cmake ; cd -
 make

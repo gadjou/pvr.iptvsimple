@@ -1,0 +1,13 @@
+# Target labels
+ kodi-platform
+# Source files and their labels
+/root/manual/kodi/pvr.iptvsimple/build/depends/CMakeFiles/kodi-platform
+/root/manual/kodi/pvr.iptvsimple/build/depends/CMakeFiles/kodi-platform.rule
+/root/manual/kodi/pvr.iptvsimple/build/depends/CMakeFiles/kodi-platform-complete.rule
+/root/manual/kodi/pvr.iptvsimple/build/build/kodi-platform/src/kodi-platform-stamp/kodi-platform-install.rule
+/root/manual/kodi/pvr.iptvsimple/build/build/kodi-platform/src/kodi-platform-stamp/kodi-platform-mkdir.rule
+/root/manual/kodi/pvr.iptvsimple/build/build/kodi-platform/src/kodi-platform-stamp/kodi-platform-download.rule
+/root/manual/kodi/pvr.iptvsimple/build/build/kodi-platform/src/kodi-platform-stamp/kodi-platform-update.rule
+/root/manual/kodi/pvr.iptvsimple/build/build/kodi-platform/src/kodi-platform-stamp/kodi-platform-patch.rule
+/root/manual/kodi/pvr.iptvsimple/build/build/kodi-platform/src/kodi-platform-stamp/kodi-platform-configure.rule
+/root/manual/kodi/pvr.iptvsimple/build/build/kodi-platform/src/kodi-platform-stamp/kodi-platform-build.rule

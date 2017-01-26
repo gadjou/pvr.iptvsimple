@@ -1,0 +1,13 @@
+# Target labels
+ p8-platform
+# Source files and their labels
+/root/manual/kodi/pvr.iptvsimple/build/depends/CMakeFiles/p8-platform
+/root/manual/kodi/pvr.iptvsimple/build/depends/CMakeFiles/p8-platform.rule
+/root/manual/kodi/pvr.iptvsimple/build/depends/CMakeFiles/p8-platform-complete.rule
+/root/manual/kodi/pvr.iptvsimple/build/build/p8-platform/src/p8-platform-stamp/p8-platform-install.rule
+/root/manual/kodi/pvr.iptvsimple/build/build/p8-platform/src/p8-platform-stamp/p8-platform-mkdir.rule
+/root/manual/kodi/pvr.iptvsimple/build/build/p8-platform/src/p8-platform-stamp/p8-platform-download.rule
+/root/manual/kodi/pvr.iptvsimple/build/build/p8-platform/src/p8-platform-stamp/p8-platform-update.rule
+/root/manual/kodi/pvr.iptvsimple/build/build/p8-platform/src/p8-platform-stamp/p8-platform-patch.rule
+/root/manual/kodi/pvr.iptvsimple/build/build/p8-platform/src/p8-platform-stamp/p8-platform-configure.rule
+/root/manual/kodi/pvr.iptvsimple/build/build/p8-platform/src/p8-platform-stamp/p8-platform-build.rule

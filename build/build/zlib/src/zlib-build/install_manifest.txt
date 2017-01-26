@@ -1,0 +1,5 @@
+/root/manual/kodi/pvr.iptvsimple/build/build/depends/lib/libz.a
+/root/manual/kodi/pvr.iptvsimple/build/build/depends/include/zconf.h
+/root/manual/kodi/pvr.iptvsimple/build/build/depends/include/zlib.h
+/root/manual/kodi/pvr.iptvsimple/build/build/depends/share/man/man3/zlib.3
+/root/manual/kodi/pvr.iptvsimple/build/build/depends/share/pkgconfig/zlib.pc

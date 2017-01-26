@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/manual/kodi/pvr.iptvsimple/build/CMakeFiles/pvr.iptvsimple"
+		},
+		{
+			"file" : "/root/manual/kodi/pvr.iptvsimple/build/CMakeFiles/pvr.iptvsimple.rule"
+		},
+		{
+			"file" : "/root/manual/kodi/pvr.iptvsimple/build/CMakeFiles/pvr.iptvsimple-complete.rule"
+		},
+		{
+			"file" : "/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-install.rule"
+		},
+		{
+			"file" : "/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-mkdir.rule"
+		},
+		{
+			"file" : "/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-download.rule"
+		},
+		{
+			"file" : "/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-update.rule"
+		},
+		{
+			"file" : "/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-patch.rule"
+		},
+		{
+			"file" : "/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-configure.rule"
+		},
+		{
+			"file" : "/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-build.rule"
+		},
+		{
+			"file" : "/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-forcebuild.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pvr.iptvsimple"
+		],
+		"name" : "pvr.iptvsimple"
+	}
+}

@@ -1,0 +1,14 @@
+# Target labels
+ pvr.iptvsimple
+# Source files and their labels
+/root/manual/kodi/pvr.iptvsimple/build/CMakeFiles/pvr.iptvsimple
+/root/manual/kodi/pvr.iptvsimple/build/CMakeFiles/pvr.iptvsimple.rule
+/root/manual/kodi/pvr.iptvsimple/build/CMakeFiles/pvr.iptvsimple-complete.rule
+/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-install.rule
+/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-mkdir.rule
+/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-download.rule
+/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-update.rule
+/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-patch.rule
+/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-configure.rule
+/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-build.rule
+/root/manual/kodi/pvr.iptvsimple/build/pvr.iptvsimple-prefix/src/pvr.iptvsimple-stamp/pvr.iptvsimple-forcebuild.rule
